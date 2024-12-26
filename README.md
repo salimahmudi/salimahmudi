@@ -17,8 +17,6 @@ I am **Salima Hammoudi**, a second-year software engineering student at ISGA Cas
 
 I am currently learning more about advanced algorithms, data structures, and cloud technologies. I am also exploring new 
 
-### 📝 Projects & Experience
-
 ### 🎓 Education
 
 **Institut Supérieur d'Ingénierie et des Affaires, Casablanca**  
@@ -28,15 +26,5 @@ I am currently learning more about advanced algorithms, data structures, and clo
 **Lycée Mohamed V, Casablanca**  
 *Baccalaureate in Mathematical Science*  
 *2020 - 2021*
-
-### 🛠️ Skills
-
-- **Programming Languages:** Java, C, C++, PHP, JavaScript, HTML, CSS
-- **Frameworks & Tools:** Laravel, Bootstrap, Merise, UML, MySQL, JavaFX, React, Spring Boot, Android Studio
-- **Databases:** MySQL, MongoDB, Oracle
-- **Machine Learning:** scikit-learn
-- **Networking:** TCP/IP, OSI Model, Network Security
-- **Server Administration:** Linux server administration with Fedora
-- **Languages:** English (Fluent), French (Professional), Arabic (Native)
 
 Feel free to explore my repositories and connect with me on LinkedIn!
