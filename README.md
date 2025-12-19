@@ -63,9 +63,6 @@ Automated manual workflows using API integration and intelligent routing.
 <details>
 <summary><b>Click to view career timeline</b></summary>
 
-**Data Engineer & AI Strategist in Training** | ISGA Casablanca  
-*2023–Present* — Big Data & AI Specialization
-
 **Digital Transformation & BI Analyst Intern** | OUTSOURCIA  
 *Apr–Sep 2025* — Strategy, Power BI, Process Analysis
 
