@@ -1,30 +1,40 @@
-# Welcome to My GitHub Profile!
-![Profile Views](https://komarev.com/ghpvc/?username=salimahmudi)
+# 🚀 Digital Transformation & AI Consultant | Data Engineer | Business Innovation Strategist
 
-## Hi there! 👋
+![Profile Banner](https://via.placeholder.com/1200x400/0a192f/ffffff?text=Digital+Transformation+%7C+AI+Innovation+%7C+Data-Driven+Strategy)
+![Profile Views](https://komarev.com/ghpvc/?username=salimahmudi&color=0066cc&style=flat-square&label=PROFILE+VIEWS)
 
-I am **Salima Hammoudi**, a second-year software engineering student at ISGA Casablanca, specializing in big data. My passion lies in business analysis and data analysis, where I enjoy transforming complex datasets into actionable insights that drive strategic business decisions. I am seeking a three-month internship in big data and AI from July to September, where I can apply my analytical skills and contribute to innovative projects at the intersection of data and business.
+---
 
-### 📈 GitHub Stats
+## 👋 **Salima Hammoudi**
 
-![Salima's GitHub stats](https://github-readme-stats.vercel.app/api?username=salimahmudi&show_icons=true&theme=radical)
+**Digital Transformation & AI Consultant | Business & Innovation Analyst | Data Engineer | BI Consultant**
 
-### 📫 How to reach me:
+> *"Driving Innovation with Digital Transformation & AI"*
 
-- [LinkedIn](https://www.linkedin.com/in/salima-h-437601215/) 
+I help organizations innovate and grow by blending **technology, business strategy, and AI innovation**. From **Data Engineering, Analytics, and cloud automation** to **Machine Learning systems and data-driven solutions** — I bridge strategy and execution to deliver measurable impact.
 
-### 🌱 Currently Learning
+**Transforming processes, optimizing operations, and creating digital experiences that empower businesses to scale and innovate.**
 
-I am currently learning more about advanced algorithms, data structures, and cloud technologies. I am also exploring new 
+---
 
-### 🎓 Education
+## 🎯 **Core Competencies**
 
-**Institut Supérieur d'Ingénierie et des Affaires, Casablanca**  
-*Big Data and Software Engineering*  
-*2021 - Present*
+| **Digital Transformation & AI**          | **Data Engineering & Analytics**        | **Business Innovation & Strategy**      |
+|------------------------------------------|-----------------------------------------|-----------------------------------------|
+| • AI-Driven Process Optimization         | • Scalable Data Architecture            | • Business Process Analysis (BPMN)      |
+| • Cloud Automation & Modernization       | • ETL/ELT & Data Pipeline Design        | • KPI Development & Performance Tracking|
+| • Digital Strategy & Roadmapping         | • Data Warehousing & Lakehouse          | • Innovation Frameworks & Ideation      |
+| • Change Management & Adoption            | • Business Intelligence & Dashboards    | • Market Benchmarking & Trend Analysis  |
+| • Agile & Scrum Project Leadership       | • Machine Learning & NLP Systems        | • Data-Driven Decision Consulting       |
 
-**Lycée Mohamed V, Casablanca**  
-*Baccalaureate in Mathematical Science*  
-*2020 - 2021*
+---
 
-Feel free to explore my repositories and connect with me on LinkedIn!
+## 🛠️ **Technical Arsenal**
+
+```python
+# Data & AI Stack
+data_engineering = ["SQL", "PySpark", "Airflow", "AWS/Azure", "Data Modeling"]
+data_science = ["Python", "Scikit-learn", "TensorFlow", "NLP", "MLOps"]
+analytics_bi = ["Power BI", "Tableau", "DAX", "Excel", "Data Storytelling"]
+consulting_tools = ["Figma", "Jira", "BPMN", "Miro", "Strategic Frameworks"]
+cloud = ["AWS S3/Glue", "Azure Data Factory", "Docker", "Kubernetes"]
